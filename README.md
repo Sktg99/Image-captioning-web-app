@@ -1,13 +1,17 @@
-# image-captioning-keras-resnet
-run 
+# Image captioning web app
+
+Kaggle notebook: https://www.kaggle.com/sanchitkumawat/image-captioning
 <br>
 
-<h1> first </h1>
-1] app.py for interactive gui but before running this you need model weights and vocab.npy which you can get by running .ipynb file or kaggle notebook
+<h1> How to run </h1>
+1: Generate the weights and vocab files by running the notebook.
+2: Run app.py
 
-kaggle notebook : https://www.kaggle.com/programminghut/imagecaptioning
+<h3> Outputs </h3>
 
-<h1> second </h1>
-2] non_interative.py for cli predictions.
+![Output1](https://user-images.githubusercontent.com/56692432/148678975-9c5f1d0a-d614-4b8b-b8af-11785ae6b3ef.jpg)
+
+![output2](https://user-images.githubusercontent.com/56692432/148678978-8cea25b6-0fec-4fbb-99b5-f641e2f3ad2c.jpg)
+
 
 

@@ -5,6 +5,7 @@ Kaggle notebook: https://www.kaggle.com/sanchitkumawat/image-captioning
 
 <h1> How to run </h1>
 1: Generate the weights and vocab files by running the notebook.
+
 2: Run app.py
 
 <h3> Outputs </h3>
